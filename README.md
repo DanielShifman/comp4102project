@@ -20,14 +20,14 @@ weapon detection software (be it precompiled, source, or libraries.) In addition
 
 The learning objective of this particular project is to learn how to detect objects, track moving objects, and recognize objects. A simple planned flowchart is shown below in figure one, and a visual depiction of a final result use case is shown below in figure 2.
 
-![](https://i.ibb.co/BKpVFxv/Flowchart.png)
+![](Flowchart.png)
 
 *Figure 1: Flowchart*
 
 
 
 
-![](https://i.ibb.co/hcbQd2b/useCase.png)
+![](useCase.png)
 *Figure 2: Use Case*
 
 ### Goals and Deliverables
